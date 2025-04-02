@@ -5,7 +5,6 @@ About Me
 💬 Ask me about Hackathons
 📫 How to reach me: wmcarthur@mines.edu
 
-GitHub Stats
 ![wmcarthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmcarthur&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmcarthur&layout=compact&theme=radical)
